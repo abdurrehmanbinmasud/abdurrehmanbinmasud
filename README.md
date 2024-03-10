@@ -2,7 +2,7 @@
 
 💼 With interests spanning web development, UI/UX design, and emerging technologies like IoT and cloud computing, I'm committed to making meaningful contributions to the tech landscape.
 
-🎯 Let's collaborate! Reach out on LinkedIn here to explore opportunities for innovation and growth together.
+🎯 Let's collaborate! Reach out on LinkedIn to explore opportunities for innovation and growth together.
 
 ✨ Fun Fact: I believe in the transformative power of technology to shape a better future.
 
