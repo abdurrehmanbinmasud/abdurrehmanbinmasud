@@ -4,5 +4,5 @@
 
 🎯 Let's collaborate! Reach out on LinkedIn to explore opportunities for innovation and growth together.
 
-✨ Fun Fact: I believe in the transformative power of technology to shape a better future.
+
 
