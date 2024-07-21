@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman Bin Masud</h1>
-<h3 align="center">A Full-Stack Python developer from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
+<br>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=abdurrehmanbinmasud&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehmanbinmasud" /> 
+</p>
+<div align="center">
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidasifmalik&label=Profile%20views&color=0e75b6&style=flat" alt="zaidasifmalik" /> </p>-->
+🔭I’m currently working with the MERN stack.
 
 - 🌱 I’m currently learning **Django and React**
   
 - 💡 Side interests: **Startups**
+
+- 💬 Ask me about React, C++, Java, JavaScript
 
 - 📫 How to reach me **abdurrehmanbinmasud@outlook.com**
 
