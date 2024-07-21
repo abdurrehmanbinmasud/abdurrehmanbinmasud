@@ -4,7 +4,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=abdurrehmanbinmasud&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrehmanbinmasud" /> 
 </p>
-<div align="center">
 
 🔭I’m currently working with the MERN stack.
 
