@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdur Rehman Bin Masud</h1>
+<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan</h3>
 <br>
 <p align="center"> 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working with the **MERN** stack
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently learning **Android Development**
   
 - 💡 Side interests: **Startups**
 
-- 💬 Ask me about React, C++, Java, JavaScript
+- 💬 Ask me about React, React Native, C++, Java, Python, JavaScript
 
 - 📫 How to reach me **abdurrehmanbinmasud@outlook.com**
 
